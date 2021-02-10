@@ -1,0 +1,5 @@
+numpy
+tables
+psycopg2
+django
+django-cors-headers
